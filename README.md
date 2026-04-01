@@ -79,7 +79,7 @@ footer {
 <body>
 
 <header>
-    <h1>Your Name</h1>
+    <h1>Diptesh kumar Das</h1>
     <p>Professional Video Editor | Reels • YouTube • Cinematic Edits</p>
     <a href="#contact" class="btn">Hire Me</a>
 </header>
@@ -123,12 +123,12 @@ footer {
 
 <section id="contact">
     <h2>Contact Me</h2>
-    <p>Email: your@email.com</p>
-    <p>Instagram: @yourhandle</p>
+    <p>Email: dasdipteshkumar1@gmail.com</p>
+    <p>Instagram: @diptesh_ds_07</p>
 </section>
 
 <footer>
-    <p>© 2026 Your Name | Video Editor</p>
+    <p>© 2026 deep vfx | Video Editor</p>
 </footer>
 
 </body>
